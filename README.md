@@ -17,7 +17,9 @@ I created an company database and employees table containing 15 employee records
 - BETWEEN
 - AND / OR
 - LIKE
-- Aggregate Functions
+- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+- GROUP BY
+- HAVING
 
 ## Dataset
 15 employee records with:
