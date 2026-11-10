@@ -3,7 +3,7 @@
 ## About the Project
 This is my first SQL project using PostgreSQL.
 
-I created an employee database containing 15 employee records and practised SQL queries to retrieve and analyse data.
+I created an company database and employees table containing 15 employee records and practised SQL queries to retrieve and analyse data.
 
 ## Database
 - PostgreSQL
