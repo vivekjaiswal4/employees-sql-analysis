@@ -9,6 +9,7 @@ I created an company database and employees table containing 15 employee records
 - PostgreSQL
 
 ## Topics Covered
+Day 1
 - SELECT
 - WHERE
 - ORDER BY
@@ -17,9 +18,14 @@ I created an company database and employees table containing 15 employee records
 - BETWEEN
 - AND / OR
 - LIKE
+Day 2
 - Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - GROUP BY
 - HAVING
+Day 3
+  -ORDER BY
+  -LIMIT AND OFFSET
+  -JOINS 
 
 ## Dataset
 15 employee records with:
@@ -30,6 +36,7 @@ I created an company database and employees table containing 15 employee records
 - Salary
 - City
 - Age
+  
 
 ## Objective
 To improve my SQL skills and develop a foundation for Data Analytics.
