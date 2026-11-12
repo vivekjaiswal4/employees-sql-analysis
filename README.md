@@ -28,6 +28,7 @@ Day 3
   -ORDER BY
   -LIMIT AND OFFSET
   -JOINS 
+  
 Day 4
 -JOINS ALL TYPES-
 
