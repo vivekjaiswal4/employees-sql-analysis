@@ -18,14 +18,19 @@ Day 1
 - BETWEEN
 - AND / OR
 - LIKE
+ 
 Day 2
 - Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - GROUP BY
 - HAVING
+ 
 Day 3
   -ORDER BY
   -LIMIT AND OFFSET
   -JOINS 
+Day 4
+-JOINS ALL TYPES-
+
 
 ## Dataset
 15 employee records with:
