@@ -3,7 +3,7 @@
 ## About the Project
 This is my first SQL project using PostgreSQL.
 
-I created a company database and an employees table containing 15 employee records and practised SQL queries to retrieve and analyse data.
+I created a company database with an employees table containing 15 employee records and practised SQL queries to retrieve, filter, join and analyse employee data.
 
 ## Database
 - PostgreSQL
@@ -48,8 +48,15 @@ I created a company database and an employees table containing 15 employee recor
 - Department-wise Average Salary Comparison
 - Highest and Second-Highest Salary Queries
 
+### Day 6: Subquery Revision
+- Basic Subquery Practice
+- IN and NOT IN
+- EXISTS and NOT EXISTS (revision)
+- ANY and ALL (revision)
+- Subqueries with GROUP BY and HAVING
+
 ## Dataset
-15 employee records with:
+15 employee records containing:
 - Employee ID
 - First Name
 - Last Name
@@ -59,7 +66,7 @@ I created a company database and an employees table containing 15 employee recor
 - Age
 
 ## Objective
-To improve my SQL skills and develop a foundation for Data Analytics.
+To improve my SQL skills and develop a strong foundation for Data Analytics.
 
 ## Tools & Technologies
 - PostgreSQL
