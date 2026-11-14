@@ -91,10 +91,17 @@ select * from employees where department not in(select department from employees
 
 -- Q5. Find employees whose department has at least one employee earning more than ₹50,000.
 
-select * from employees where department in(select department from employees where salary>=50000);
+select * from employees where department in(select department from employees where salary>50000);
 
 -- Q6. Find employees who are the only employee in their department.
-select * from employees where department in (select department,count(emp_id) from employees group by department having count(emp_id)=1);
+SELECT *
+FROM employees
+WHERE department IN (
+    SELECT department
+    FROM employees
+    GROUP BY department
+    HAVING COUNT(emp_id) = 1
+);
 
 -- Part C — ANY and ALL
 -- Challenging
