@@ -55,6 +55,14 @@ I created a company database with an employees table containing 15 employee reco
 - ANY and ALL (revision)
 - Subqueries with GROUP BY and HAVING
 
+### Day 7: Common Table Expressions (CTEs)
+- Introduction to CTEs
+- CTE Syntax (WITH and AS)
+- CTE with WHERE condition
+- CTE with GROUP BY
+- Aggregate function using COUNT()
+- Practised 3 basic CTE queries
+
 ## Dataset
 15 employee records containing:
 - Employee ID
