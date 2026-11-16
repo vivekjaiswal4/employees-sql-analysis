@@ -51,8 +51,8 @@ I created a company database with an employees table containing 15 employee reco
 ### Day 6: Subquery Revision
 - Basic Subquery Practice
 - IN and NOT IN
-- EXISTS and NOT EXISTS (revision)
-- ANY and ALL (revision)
+- EXISTS and NOT EXISTS
+- ANY and ALL
 - Subqueries with GROUP BY and HAVING
 
 ### Day 7: Common Table Expressions (CTEs)
@@ -60,8 +60,17 @@ I created a company database with an employees table containing 15 employee reco
 - CTE Syntax (WITH and AS)
 - CTE with WHERE condition
 - CTE with GROUP BY
-- Aggregate function using COUNT()
-- Practised 3 basic CTE queries
+- Aggregate Functions using COUNT()
+- Basic CTE Practice
+
+### Day 8: Advanced CTE Practice
+- CTE with Aggregate Functions
+- CTE with WHERE conditions
+- Multiple CTEs
+- CTE with JOIN
+- Department-wise Salary Analysis
+- Comparing Employee Salary with Department Average
+- Filtering CTE Results
 
 ## Dataset
 15 employee records containing:
