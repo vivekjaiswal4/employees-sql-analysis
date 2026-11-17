@@ -72,6 +72,16 @@ I created a company database with an employees table containing 15 employee reco
 - Comparing Employee Salary with Department Average
 - Filtering CTE Results
 
+### Day 9: Introduction to Window Functions
+- Introduction to Window Functions
+- Difference between GROUP BY and Window Functions
+- OVER() Clause
+- PARTITION BY
+- Aggregate Window Functions (AVG and SUM)
+- Company-wide Average Salary using Window Functions
+- Department-wise Average Salary
+- Department-wise Total Salary
+
 ## Dataset
 15 employee records containing:
 - Employee ID
