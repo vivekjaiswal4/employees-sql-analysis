@@ -82,6 +82,18 @@ I created a company database with an employees table containing 15 employee reco
 - Department-wise Average Salary
 - Department-wise Total Salary
 
+  ### Day 10 – Window Functions Practice
+- MAX() OVER()
+- MIN() OVER()
+- COUNT() OVER()
+- SUM() OVER()
+- AVG() OVER()
+- OVER() clause
+- PARTITION BY clause
+- Company-wide aggregate calculations
+- Department-wise aggregate calculations
+- City-wise aggregate calculations
+
 ## Dataset
 15 employee records containing:
 - Employee ID
